@@ -1,0 +1,25 @@
+//this is a sample data for database
+{
+    _id: "60d7f449ed47da73dea481cc",
+    title: 'Node JS',
+    content: 'Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.'
+  },
+  {
+    _id: 60d7f449ed47da73dea481cf,
+    title: 'Express JS',
+    content: 'Express.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed fo
+r building web applications and APIs. It has been called the de facto standard server framework for Node.js.'
+  },
+  {
+    _id: 60d7f449ed47da73dea481d2,
+    title: 'EJS',
+    content: 'EJS is a simple templating language that lets you generate HTML markup withplain JavaScript.'
+  },
+  { _id: 60d7fdbc4124b8087da350df, __v: 0 },
+  {
+    _id: 60d8010223934808ffdfa8f8,
+    title: 'NPM',
+    content: 'Node Package Manager',
+    __v: 0
+  }
+]
